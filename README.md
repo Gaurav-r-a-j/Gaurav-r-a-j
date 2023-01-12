@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-r-a-j" alt="gaurav-r-a-j" /></a> </p>
 
-- 👨‍💻 All of my projects are available at https://gaurav-raj-portfolio.herokuapp.com/
+- 👨‍💻 All of my projects are available at https://gaurav-raj.netlify.app/
 - 📫 How to reach me **gauravraj858204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
