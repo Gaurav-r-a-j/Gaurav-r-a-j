@@ -1,26 +1,88 @@
+# Hey, I'm Gaurav 👋
 
-<h1 align="center" style="font-family: cursive;">Hi 👋, I'm Gaurav raj</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" style="width:300px; border-radius:50px;" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif" alt="Random gif">
+### Full-Stack Developer • Product Builder • Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-r-a-j&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-r-a-j" /> </p>
+I build products from idea to production — designing interfaces, writing the code, connecting the backend, and shipping the final thing.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-r-a-j" alt="gaurav-r-a-j" /></a> </p>
+I'm interested in building useful software, experimenting with AI, and turning ideas into real products.
 
-- 👨‍💻 All of my projects are available at https://gaurav-raj.theportfolyo.com/
-- 📫 How to reach me **gauravraj858204@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav2raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav2raj" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurav r_a_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_r_a_j" height="30" width="40" /></a>
+  <a href="https://gaurav-raj.theportfolyo.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:gauravraj858204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gaurav-r-a-j">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-r-a-j&show_icons=true&locale=en&layout=compact" alt="gaurav-r-a-j" /></p>
+## What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-r-a-j&show_icons=true&locale=en" alt="gaurav-r-a-j" /></p>
+- Build full-stack web applications
+- Turn product ideas into working software
+- Experiment with AI-powered applications
+- Design and develop clean user interfaces
+- Learn by building and shipping projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-r-a-j&" alt="gaurav-r-a-j" /></p>
+---
+
+## Featured Work
+
+### 🤖 Jessica
+An experimental personal AI project built with Python, exploring assistant-style interactions and automation.
+
+### 🧩 Web Development Experiments
+A collection of frontend experiments and implementations covering HTML, CSS, JavaScript, layouts, forms, grids, Flexbox, debugging, and other web fundamentals.
+
+### 🎨 Portfolio Projects
+A collection of portfolio and web-development projects built while exploring different approaches to frontend development.
+
+### 💻 Programming Experiments
+Small projects and code experiments created while learning programming concepts and improving problem-solving skills.
+
+---
+
+## Tech Stack
+
+### Languages
+JavaScript · TypeScript · Python · C · HTML · CSS
+
+### Frontend
+React · Next.js · Tailwind CSS
+
+### Backend
+Node.js · Express
+
+### Database
+MongoDB · PostgreSQL · Supabase
+
+### Tools
+Git · GitHub · Docker · Vercel · Figma
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-r-a-j&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-r-a-j&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+---
+
+## Currently
+
+Building products, exploring AI, improving my engineering fundamentals, and learning by shipping.
+
+---
+
+## Let's Connect
+
+I'm always interested in interesting products, engineering problems, collaborations, and things worth building.
+
+**Portfolio:** https://gaurav-raj.theportfolyo.com  
+**GitHub:** https://github.com/Gaurav-r-a-j
