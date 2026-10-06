@@ -72,6 +72,6 @@ I'm also continuously experimenting with new product ideas and turning the ones 
 
 I’m interested in **building products, open source, developer tools, AI, and interesting engineering problems**.
 
-[**View my portfolio →**](https://gaurav-raj.theportfolyo.com)
+[**View my portfolio →**](https://gaurav.theportfolyo.com)
 
 [**View my GitHub profile →**](https://github.com/Gaurav-r-a-j)
